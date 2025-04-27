@@ -1,6 +1,9 @@
-#include <iostream>
-
+#include <bits/stdc++.h>
+using namespace std;
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    cout << "Hello, World!" << endl;
+    int a;
+    cin>>a;
+    cout<<a;
     return 0;
 }
